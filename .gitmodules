@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mousetrap"]
+	path = mousetrap
+	url = https://github.com/pascalkieslich/mousetrap
+	shallow = true
+	registered = true
+[submodule "readbulk"]
+	path = readbulk
+	url = https://github.com/pascalkieslich/readbulk
+	shallow = true
+	registered = true

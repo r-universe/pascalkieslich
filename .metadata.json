@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mousetrap",
+    "oncran": true
+  },
+  {
+    "package": "readbulk",
+    "oncran": true
+  }
+]
